@@ -1,6 +1,7 @@
 #include <stdio.h>
 //#define LEN 100 
-//버블정렬 
+//버블정렬
+//Git add 
 
 void BubbleSort(int len, int* arr){
 	int i,j,tmp;
